@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# feitos por mim
+include/
+bin/
+paho.mqtt.python/
